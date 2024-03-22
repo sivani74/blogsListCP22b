@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.blog-details {
+  width: 100%;
+  list-style-type: none;
+}
+.title {
+  font-size: 20px;
+  color: #12022f;
+}
+.description {
+  color: #616e7e;
+  font-weight: 500;
+}
+.title-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.line {
+  border: 1px solid #9aa5b1;
+  width: 100%;
+}
